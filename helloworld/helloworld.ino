@@ -1,13 +1,12 @@
-/* helloworld
- *
- * output simple hello message
- *
- */
+/hello world 
 
-void setup() {
-  Serial.begin(9600);
-  Serial.println("Hello, world!");
+void setup(){
+
+  Serial.println("Hello world");
+  
+}
+void loop(){
+
+  
 }
 
-void loop() {
-}
